@@ -1,6 +1,5 @@
 
 # ANN Churn Prediction
-
 Customer churn prediction using an Artificial Neural Network (TensorFlow/Keras) with a Streamlit web app.
 
 ## Files
